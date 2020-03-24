@@ -11,7 +11,7 @@ This project aims to simulute COVID-19 diffusion, taking into account cultural n
 
 ## Summary
 
-This code is adapted from Mesa code for project "Virus on Network" https://raw.githubusercontent.com/projectmesa/mesa/master/examples/virus_on_network
+This code is adapted from Mesa code for project "Virus on Network" https://github.com/projectmesa/mesa/tree/master/examples/virus_on_network
 
 In turn, this model is based on the NetLogo model "Virus on Network".
 
