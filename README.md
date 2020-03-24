@@ -1,5 +1,10 @@
 # Cultural Network Simulation
 
+## Run as Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timhannigan/cultural_network_sim/master?filepath=cultural_networks_simulation.ipynb)
+
+
 ## Summary
 
 This code is adapted from Mesa code for project "Virus on Network" https://raw.githubusercontent.com/projectmesa/mesa/master/examples/virus_on_network
