@@ -9,3 +9,15 @@ In turn, this model is based on the NetLogo model "Virus on Network".
 For more information about this model, read the NetLogo's web page: http://ccl.northwestern.edu/netlogo/models/VirusonaNetwork.
 
 
+## Further Reading
+
+More info on Mesa
+http://mesa.readthedocs.io/
+
+
+[Stonedahl, F. and Wilensky, U. (2008). NetLogo Virus on a Network model](http://ccl.northwestern.edu/netlogo/models/VirusonaNetwork). 
+Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
+
+
+[Wilensky, U. (1999). NetLogo](http://ccl.northwestern.edu/netlogo/)
+Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
