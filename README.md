@@ -1,4 +1,4 @@
-# Cultural Network Simulation
+# Cultural Network Simulation, IDeaS group (UAlberta, UBC)
 
 ## Run as Binder
 
