@@ -1,4 +1,7 @@
 # Cultural Network Simulation, IDeaS group (UAlberta, UBC)
+_Tim Hannigan, Dev Jennings, Chris Steele, Marc-David Seidel, Milo Wang
+
+This project aims to simulute COVID-19 diffusion, taking into account cultural network variables.
 
 ## Run as Binder
 
