@@ -6,6 +6,9 @@ This project aims to simulute COVID-19 diffusion, taking into account cultural n
 
 ## Run as Binder
 
+Click button below or go to:
+https://mybinder.org/v2/gh/timhannigan/cultural_network_sim/master?filepath=cultural_networks_simulation.ipynb
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timhannigan/cultural_network_sim/master?filepath=cultural_networks_simulation.ipynb)
 
 
