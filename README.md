@@ -4,7 +4,7 @@ For more, contact tim.hannigan@ualberta.ca
 
 This project aims to simulute COVID-19 diffusion, taking into account cultural network variables.
 
-## Run as Binder
+## Run in browser directly through Binder
 
 Click button below or go to:
 https://mybinder.org/v2/gh/timhannigan/cultural_network_sim/master?filepath=cultural_networks_simulation.ipynb
